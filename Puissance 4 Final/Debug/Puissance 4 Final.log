@@ -1,0 +1,6 @@
+﻿  Puissance 4 Final.cpp
+C:\Users\themo\source\repos\Puissance 4 Final\Puissance 4 Final.cpp(48,139): warning C4806: '==' : opération risquée : aucune valeur de type 'bool' promue en type 'int' ne peut être égale à la constante donnée
+C:\Users\themo\source\repos\Puissance 4 Final\Puissance 4 Final.cpp(61,139): warning C4806: '==' : opération risquée : aucune valeur de type 'bool' promue en type 'int' ne peut être égale à la constante donnée
+C:\Users\themo\source\repos\Puissance 4 Final\Puissance 4 Final.cpp(74,139): warning C4806: '==' : opération risquée : aucune valeur de type 'bool' promue en type 'int' ne peut être égale à la constante donnée
+C:\Users\themo\source\repos\Puissance 4 Final\Puissance 4 Final.cpp(87,139): warning C4806: '==' : opération risquée : aucune valeur de type 'bool' promue en type 'int' ne peut être égale à la constante donnée
+  Puissance 4 Final.vcxproj -> C:\Users\themo\source\repos\Puissance 4 Final\Debug\Puissance 4 Final.exe
